@@ -132,6 +132,7 @@ hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
     margin: 5px;
+    margin-left: 0;
 }
 
 .left-about-heading {
@@ -148,4 +149,12 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+}
+
+.right-about-heading h2 {
+    text-align: right;
+}
+
+.right-about-heading p {
+    text-align: right;
 }
